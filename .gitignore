@@ -1,0 +1,18 @@
+# Credenciales y entornos locales
+.env*
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.agents/
+.codex/
+.aws/
+
+# Directorio adicional de prácticas
+/FundamentosIA-Practicas/
+
+# Archivos del examen LogiSmart
+/13-logismart.py
+/13-logismart-guia.md
+/test_logismart.py
+/riesgos_logismart.json
